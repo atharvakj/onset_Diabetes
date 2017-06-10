@@ -17,7 +17,7 @@ Class variable (0 or 1).
 Missing Attribute Values: Yes.
 Class Distribution: (class value 1 is interpreted as "tested positive for diabetes").
 
-# ALgorithms used:
+# Algorithms used:
 1. Random Forest based Decision Tree
 2. AdaBoost based Decision Tree
 3. Neural Net
